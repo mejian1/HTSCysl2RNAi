@@ -2,7 +2,7 @@
 RNAi screen
 Reproducible script upload excel file containing RNAi raw data. Upload onto Python platiform and run the scripts. 
 
-Here's a revised and reworded version of the text:
+
 
 ## RNAi Screen Data Analysis Workflow
 
